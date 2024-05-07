@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T00:49:49.283Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="BeO9v9zsNjS3HdJvQrUq" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T00:55:41.327Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="Ky-uUEZg2gqdATPYiHKr" version="24.3.1" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1674" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qYUeNGNezS3mZ1fiowpl-17" value="Router PPAL" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="604" y="481" width="80" height="80" as="geometry" />
+          <mxGeometry x="604" y="476" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qYUeNGNezS3mZ1fiowpl-18" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22;" edge="1" parent="1" source="qYUeNGNezS3mZ1fiowpl-10" target="qYUeNGNezS3mZ1fiowpl-17">
           <mxGeometry relative="1" as="geometry">
@@ -94,6 +94,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="340" as="sourcePoint" />
             <mxPoint x="670" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qYUeNGNezS3mZ1fiowpl-29" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="315" y="289" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qYUeNGNezS3mZ1fiowpl-30" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22;exitX=0.189;exitY=0.635;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qYUeNGNezS3mZ1fiowpl-6" target="qYUeNGNezS3mZ1fiowpl-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="462" y="301" as="sourcePoint" />
+            <mxPoint x="462" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qYUeNGNezS3mZ1fiowpl-31" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="164" y="289" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qYUeNGNezS3mZ1fiowpl-32" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qYUeNGNezS3mZ1fiowpl-29" target="qYUeNGNezS3mZ1fiowpl-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314" y="341" as="sourcePoint" />
+            <mxPoint x="239" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

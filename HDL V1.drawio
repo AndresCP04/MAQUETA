@@ -1,23 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T00:21:00.274Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="OR0PAJBmMDKApBFiqq65" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T00:30:13.267Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="_SWiYld0QUTwKiAFBtff" version="24.3.1" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1674" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="69ecfefc5c41e42c-18" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" source="69ecfefc5c41e42c-1" target="69ecfefc5c41e42c-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="69ecfefc5c41e42c-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
-          <mxGeometry x="470" y="320" width="80" height="80" as="geometry" />
+        <mxCell id="69ecfefc5c41e42c-18" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" source="qYUeNGNezS3mZ1fiowpl-4" target="69ecfefc5c41e42c-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-2" value="Internet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="470" y="30" width="80" height="80" as="geometry" />
+          <mxGeometry x="470" y="76" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-19" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" source="69ecfefc5c41e42c-3" target="69ecfefc5c41e42c-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-3" value="Firewall" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Firewall_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="470" y="130" width="80" height="80" as="geometry" />
+          <mxGeometry x="470" y="174" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-4" value="Tablet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/iPad_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="500" y="700" width="80" height="80" as="geometry" />
@@ -33,6 +32,21 @@
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-10" value="Laptop" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Netbook_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="320" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qYUeNGNezS3mZ1fiowpl-4" value="Router PPAL" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qYUeNGNezS3mZ1fiowpl-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="240" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qYUeNGNezS3mZ1fiowpl-8" value="RACK" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="720" y="252" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qYUeNGNezS3mZ1fiowpl-9" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qYUeNGNezS3mZ1fiowpl-4" target="qYUeNGNezS3mZ1fiowpl-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="290" as="sourcePoint" />
+            <mxPoint x="520" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
